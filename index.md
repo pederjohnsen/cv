@@ -18,16 +18,16 @@ Looking for a great team to join for my next role.
 __Software Developer at Ayoa (previously DropTask)__
 
 I mostly worked on the front-end, but tackled back-end whenever required or when taking the lead on brand new features.
-Was part of a 2 man team re-building the native Android app using React Native in 2018,
-I later took over as the lead developer on that and in late 2021 we replaced the native iOS apps with React Native.
+Was part of a 2 man team re-building the native Android app using __React Native__ in 2018,
+I later took over as the lead developer on that and in late 2021 we replaced the native iOS apps with __React Native__.
 
-Regularly helped customer service team with tech support tickets from customers.
+Regularly helped customer service team with __tech support__ tickets from customers.
 
 ___Tech used:___
 
-- Front-end originally written in CoffeeScript with backbone.js, but I later initiated the use of React.js and started writing new and rewriting old features in React.
-- Back-end written in CoffeeScript with node.js/express.js as microservices.
-- Android and iOS written in React Native with TypeScript (originally using babel.js).
+- Front-end originally written in __CoffeeScript__ with __backbone.js__, but I later initiated the use of __React.js__ and started writing new and rewriting old features in React.
+- Back-end written in __CoffeeScript__ with __node.js__/__express.js__ as __microservices__.
+- Android and iOS written in __React Native__ with __TypeScript__ (originally using __babel.js__).
 
 `2006 - 2015`
 __Freelancing__
@@ -46,16 +46,16 @@ __Retail at Rema 1000 (Norway)__
 `2018 - now`
 __[Emoji Mart Native](https://github.com/tunoltd/emoji-mart-native), a React Native port of [`emoji-mart`](https://github.com/missive/emoji-mart/tree/v3.0.1)__
 
-While working at Ayoa we required an emoji picker for the React Native app, so in my free time I decided to port [`emoji-mart`](https://github.com/missive/emoji-mart/tree/v3.0.1) to React Native which I continue to maintain and update to this day.
+While working at Ayoa we required an emoji picker for the React Native app, so in my free time I decided to __port__ [`emoji-mart`](https://github.com/missive/emoji-mart/tree/v3.0.1) to __React Native__ which I continue to maintain and update to this day.
 
 `2006 - now`
 __Other projects__
 
-I've also built multiple other personal projects throughout the years, mostly using PHP or node.js, but all have since been shut down.
+I've also built multiple other personal projects throughout the years, mostly using __PHP__ or __node.js__, but all have since been shut down.
 I am however thinking of starting to tinker with some of my existing app ideas I've yet to start.
 
 ## Hobbies & Interests
-- Learning, playing and experimenting with musical instruments.
+- __Learning__, playing and __experimenting__ with musical instruments.
 - Developing, playing and collecting games from retro to modern.
 
 <!-- ### Footer
