@@ -54,7 +54,7 @@ __Other projects__
 I've also built multiple other personal projects throughout the years, mostly using __PHP__ or __node.js__, but all have since been shut down.
 I am however thinking of starting to tinker with some of my existing app ideas I've yet to start.
 
-## Hobbies & Interests
+## Hobbies
 - __Learning__, playing and __experimenting__ with musical instruments.
 - Developing, playing and collecting games from retro to modern.
 
