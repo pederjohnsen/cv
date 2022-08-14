@@ -44,9 +44,9 @@ __Retail at Rema 1000 (Norway)__
 
 ## Personal Projects
 `2018 - now`
-__[Emoji Mart Native](https://github.com/tunoltd/emoji-mart-native), a React Native port of [`emoji-mart`](https://github.com/missive/emoji-mart/tree/v3.0.1)__
+__[Emoji Mart Native](https://github.com/tunoltd/emoji-mart-native), a React Native port of [emoji-mart](https://github.com/missive/emoji-mart/tree/v3.0.1)__
 
-While working at Ayoa we required an emoji picker for the React Native app, so in my free time I decided to __port__ [`emoji-mart`](https://github.com/missive/emoji-mart/tree/v3.0.1) to __React Native__ which I continue to maintain and update to this day.
+While working at Ayoa we required an emoji picker for the React Native app, so in my free time I decided to __port__ [emoji-mart](https://github.com/missive/emoji-mart/tree/v3.0.1) to __React Native__ which I continue to maintain and update to this day.
 
 `2006 - now`
 __Other projects__
