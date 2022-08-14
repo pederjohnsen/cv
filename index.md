@@ -34,13 +34,13 @@ __Freelancing__
 
 Between 2006 and 2015 I was doing freelancing on and off mostly using __PHP__ and some __node.js__.
 
-`2009`
-__Retail at Rema 1000 (Norway)__
-
 `2014-2015`
 __Retail at Lidl UK__
 
 Most of my time at Lidl was spent at night shifts doing re-stocking.
+
+`2009`
+__Retail at Rema 1000 (Norway)__
 
 ## Personal Projects
 `2018 - now`
